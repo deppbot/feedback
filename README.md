@@ -1,6 +1,6 @@
 # deppbot Feedback
 
-First of all, thank you for using [deppbot](https:/www.deppbot.com)!
+First of all, thank you for using [deppbot](https://www.deppbot.com)!
 
 We'd love to hear from you if you have:
 
